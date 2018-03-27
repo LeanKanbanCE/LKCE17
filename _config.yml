@@ -51,18 +51,17 @@ navigationLinks:
  - {permalink: "/socialevent/", text: "Social Event"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 bottomNavigationLinks:
-  - {permalink: "/#tickets", text: "Buy tickets"}
+
 rightNavigationButtons:
-  - {permalink: "/#tickets", text: "Buy tickets"}
+  
 
 # Hero Block
 heroImage: "aligned.png"
 heroTitle: "Lean Kanban Central Europe <typeout>"
-eventDate: "5th + 6th November, 2018"
-typeoutTextValues: '"", "2018"'
-typeoutFallback: "2018"
+eventDate: "7th + 8th November, 2017"
+typeoutTextValues: '"", "2017"'
+typeoutFallback: "2017"
 heroButtons:
- - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About Lean Kanban Central Europe"
