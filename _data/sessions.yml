@@ -33,7 +33,6 @@
   language: en
   complexity:
   slides: LKCE17_SimonWardley.pdf
-  video: "https://player.vimeo.com/video/243638361"
 -
   id: 040
   title: "Keynote: Successful digital transformation - seven strategies to drive change"
@@ -62,7 +61,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_PawelBrodzinski.pdf
-  video: "https://player.vimeo.com/video/243641687"
 -
   id: 042
   title: "Warum agile Teams nichts mit Business-Agilität zu tun hat"
@@ -72,7 +70,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: de
   complexity: "intermediate"
   slides: LKCE17_KlausLeopoldEN.pdf
-  video: "https://player.vimeo.com/video/243840457"
 -
   id: 043
   title: "Welcome to the Jungle"
@@ -93,7 +90,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: de
   complexity: "intermediate"
   slides: LKCE17_DanielSchimera.pdf
-  video: "https://player.vimeo.com/video/243648661"
 -
   id: 046
   title: "Lean Coffee"
@@ -122,7 +118,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_CliffHazell.pdf
-  video: "https://player.vimeo.com/video/243662603"
 -
   id: 048
   title: "Okaloa Flowlab simulation"
@@ -160,7 +155,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "fun"
   slides: 20x20.zip
-  video: "https://player.vimeo.com/video/244002864"
 -
   id: 002
   title: "Manage Flow - crossing the chasm"
@@ -172,7 +166,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "beginner"
   slides: LKCE17_WolfgangWiedenroth.pdf
-  video: "https://player.vimeo.com/video/243663509"
 -
   id: 049
   title: "A Siberian tale of two Kanban implementations"
@@ -182,7 +175,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "beginner"
   slides: LKCE17_KatyaTerekhova.pdf
-  video: "https://player.vimeo.com/video/243652713"
 -
   id: 003
   title: "Keynote: First Who, Then Why"
@@ -192,7 +184,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_DavidAnderson.pdf
-  video: "https://player.vimeo.com/video/243653528"
 -
   id: 004
   title: "From 20/20 Hindsight to ESP at Optimizely"
@@ -202,7 +193,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "beginner"
   slides: LKCE17_JeffZych.pdf
-  video: "https://player.vimeo.com/video/243651831"
 -
   id: 005
   title: "Whole Organisation Kanban: how to start; how to scale"
@@ -213,7 +203,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_AndyCarmichael.pdf
-  video: "https://player.vimeo.com/video/243656509"
 -
   id: 006
   title: "Kanban Maturity Model: Why should you care about it?"
@@ -223,7 +212,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_TeodoraBozheva.pdf
-  video: "https://player.vimeo.com/video/243640339"
 -
   id: 007
   title: "In 18 Monaten von Quartalsreleases zu Flow mit 2 Wochen Lead-Time"
@@ -233,7 +221,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: de
   complexity: "intermediate"
   slides: LKCE17_MahlbergStoelzel.pdf
-  video: "https://player.vimeo.com/video/243650229"
 -
   id: 008
   title: "Kanban in SAFe waters"
@@ -243,7 +230,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: de
   complexity: "intermediate"
   slides: LKCE17_SusanneBartel.pdf
-  video: "https://player.vimeo.com/video/243654774"
 -
   id: 009
   title: "Implement ALL the cadences!?"
@@ -255,7 +241,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: de
   complexity: "beginner"
   slides: LKCE17_FlorianEisenberg.pdf
-  video: "https://player.vimeo.com/video/243651059"
 -
   id: 010
   title: "The Kanban Guide: Self-Coaching Options for Teams"
@@ -265,7 +250,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_CasalBailey.pdf
-  video: "https://player.vimeo.com/video/244003484"
 -
   id: 011
   title: "Portfolio Kanban - The Common Sense Approach to Scaling Lean"
@@ -275,7 +259,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_DimitarKaraivanov.pdf
-  video: "https://player.vimeo.com/video/243641121"
 -
   id: 012
   title: "The evolution of a Portfolio Wall"
@@ -285,7 +268,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "expert"
   slides: LKCE17_AnnaMiedzianowska.pdf
-  video: "https://player.vimeo.com/video/244004413"
 -
   id: 013
   title: "Making the Change: Going Agile at the Department of Labor"
@@ -295,8 +277,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_JoeySpooner.pdf
-  video: "https://player.vimeo.com/video/244015237"
-
 -
   id: 014
   title: "A Poker Mindset"
@@ -306,7 +286,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_TobiasKupke.pdf
-  video: "https://player.vimeo.com/video/243658294"
 -
   id: 015
   title: "Being Agile - It is not about being fast, it is about making impact!"
@@ -316,7 +295,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_MatthiasPatzak.pdf
-  video: "https://player.vimeo.com/video/243649477"
 -
   id: 016
   title: "Agility and self-organisation. The Computest Story"
@@ -342,7 +320,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_SigiKaltenecker.pdf
-  video: "https://player.vimeo.com/video/243659199"
 -
   id: 017
   title: "Faktor Mensch - 350 Menschen, ein Ziel @OTTO.de"
@@ -360,7 +337,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_RomanMueller.pdf
-  video: "https://player.vimeo.com/video/243657318"
 -
   id: 019
   title: "''Are we working on the most important thing now?''"
@@ -370,7 +346,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_AsaBredin.pdf
-  video: "https://player.vimeo.com/video/243643168"
 -
   id: 020
   title: "Applying lean principles and agile tools in marketing"
@@ -392,7 +367,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_PiotrProkopowicz.pdf
-  video: "https://player.vimeo.com/video/243801708"
 -
   id: 022
   title: "NoEstimates Workshop: Forecasting with Less Effort and More Accuracy"
@@ -426,7 +400,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_KlausLeopoldEN.pdf
-  video: "https://player.vimeo.com/video/243664482"
 -
   id: 026
   title: "Evolutionary change from the trenches"
@@ -436,7 +409,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_PeterKerschbaumer.pdf
-  video: "https://player.vimeo.com/video/243665402"
 -
   id: 027
   title: "Improving your Service Delivery Review and identification of risks with TLM"
@@ -461,7 +433,6 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [33, 27, 43]
   language: en
   complexity:
-  video: "https://player.vimeo.com/video/243658294"
 -
   id: 045
   title: "Alignment: the forgotten child"
@@ -471,7 +442,6 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_ArneRoock.pdf
-  video: "https://player.vimeo.com/video/243642384"
 -
   id: 052
   title: "A new focused leadership model"
