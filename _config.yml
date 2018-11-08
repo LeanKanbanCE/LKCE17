@@ -51,9 +51,11 @@ navigationLinks:
  - {permalink: "/socialevent/", text: "Social Event"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 bottomNavigationLinks:
+  - {permalink: "/#subscribe", text: "Subscribe for updates"}
 
 rightNavigationButtons:
-  
+  - {permalink: "/#subscribe", text: "Subscribe for updates"}
+
 
 # Hero Block
 heroImage: "aligned.png"
@@ -62,6 +64,8 @@ eventDate: "7th + 8th November, 2017"
 typeoutTextValues: '"", "2017"'
 typeoutFallback: "2017"
 heroButtons:
+  - {permalink: "/#subscribe", text: "Subscribe for updates"}
+  - {permalink: "/schedule", text: "Download slides"}
 
 # About Block
 aboutTitle: "About Lean Kanban Central Europe"
@@ -126,8 +130,8 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of April. Number of tickets are limited. Stay tuned!"
+subscribeAction: "https://leankanbance.us14.list-manage.com/subscribe?u=2bd0e07c5708b08b6078676f5&id=e3eb8d6386"
+subscribeInfo: "We'll keep you updated"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
